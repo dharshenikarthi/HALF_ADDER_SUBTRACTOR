@@ -55,7 +55,12 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+![Screenshot 2024-11-26 174722](https://github.com/user-attachments/assets/a0d251e4-28ea-40f8-89ce-365f7d4e0bbd)
+
 
 **Output/TIMING Waveform**
+![Screenshot 2024-11-26 174849](https://github.com/user-attachments/assets/dca54c3e-af1c-4d11-833e-0741aad1891c)
+
 
 **Result:**
+Designed a half adder and half subtracter circuit and verified its truth table in Quartus using Verilog programming.
